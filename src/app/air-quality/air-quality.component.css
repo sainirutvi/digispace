@@ -1,0 +1,57 @@
+.span {
+    width: 200px;
+    height: 24px;
+    position: relative;
+    left: 5px;
+}
+
+.div1 {
+    width: 48%;
+    height: 100px;
+}
+
+.div2 {
+    color: #6DD0A5;
+    font-size: 30px;
+    height: 30px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+}
+
+.div3 {
+    color: orange;
+    font-size: 30px;
+    margin-top: 13px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+.div4 {
+    display: flex;
+    flex-direction: column;
+    width: 52%;
+}
+
+.span1 {
+    color: #999999;
+    font-size: 32px;
+    font-weight: 700;
+    position: relative;
+    top: 10px;
+    left: -5px;
+}
+
+.group {
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 10px;
+}
+
+.border {
+    border-bottom: 2px solid #e7e4e4;
+}

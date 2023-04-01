@@ -1,0 +1,65 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  background-color: #f5f5f5;
+}
+
+.content {
+  display: flex;
+  margin: 62px auto 32px;
+  padding: 0 16px;
+  max-width: 950px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+@font-face {
+  font-family: Rota-Black;
+  src: url("src\assets\ui_design_resources\Rota_fonts\Rota\Rota-Black.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Rota-Bold;
+  src: url("src\assets\ui_design_resources\Rota_fonts\Rota\Rota-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Rota-Medium;
+  src: url("src\assets\ui_design_resources\Rota_fonts\Rota\Rota-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Rota-Regular;
+  src: url("src\assets\ui_design_resources\Rota_fonts\Rota\Rota-Regular.otf") format("opentype");
+}
+
+.card {
+  border-radius: 18px;
+  font-size: 23px;
+  background-color: #eeeded;
+  height: 120px;
+  width: 200px;
+  margin: 0 12px 16px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-end;
+  color:#5c5a5a;
+  line-height: 24px;
+  font-family: Rota-Black;
+}
+
+.font {
+  font-family: sans-serif;
+}
+
+
+

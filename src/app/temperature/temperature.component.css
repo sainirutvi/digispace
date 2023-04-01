@@ -1,0 +1,60 @@
+.span {
+    width: 200px;
+    height: 24px;
+    position: relative;
+    left: 5px;
+}
+
+.div1 {
+    width: 48%;
+    height: 100px;
+}
+
+.div2 {
+    color: #6DD0A5;
+    position: relative;
+    top: 13px;
+}
+
+.div3 {
+    color: orange;
+    position: relative;
+    top: 5px;
+    margin-top: 7px;
+}
+
+.div4 {
+    display: flex;
+    flex-direction: column;
+    width: 52%;
+    position: relative;
+    top: 10px;
+}
+
+.span1 {
+    color: #999999;
+    font-size: 30px;
+    font-weight: 700;
+    position: relative;
+    top: 10px;
+    left: 8px;
+}
+
+.group {
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    height: 50px;
+}
+
+.border {
+    border-bottom: 2px solid #e7e4e4;
+}
+
+.symbol {
+    font-size: 15px;
+    color: #999999;
+    position: relative;
+    top: 17px;
+    left: 8px;
+}
