@@ -1,4 +1,4 @@
-# Myapp
+The screen resolution used for this project is 1366x768. The project is not responsive.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
